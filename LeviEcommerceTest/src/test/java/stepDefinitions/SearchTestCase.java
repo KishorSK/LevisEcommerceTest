@@ -54,6 +54,7 @@ public class SearchTestCase {
 	    Assert.assertTrue(resultname.toLowerCase().contains(string.toLowerCase()));
 	    test.pass("Verified search results for " + string);
 	    driver.quit();
-	    //test3
+	    //test4
+	    
 	}
 }
